@@ -472,6 +472,33 @@
         </div>
     </div>
 
+    <!-- Reach US -->
+    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Reach US</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 p-4 mb-lg-0 mb-3 bg-white rounded">
+                <iframe class="w-100 rounded" height="320px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7616.260605798925!2d-43.274610899667415!3d-23.000126274107334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd6bf6fc76ab5%3A0xe32a11b84f81c94d!2sS%C3%A3o%20Conrado%2C%20Rio%20de%20Janeiro%20-%20RJ!5e1!3m2!1spt-BR!2sbr!4v1687470928819!5m2!1spt-BR!2sbr" loading="lazy"></iframe>
+            </div>
+            <div class="col-lg-4 col-md-4">
+                <div class="bg-white p-4 rounded mb-4">
+                    <h5>Call us</h5>
+                    <a href="tel: +22999887766" class="d-inline-block mb-2 text-decoration-none text-dark"><i class="bi bi-telephone-fill"></i>  (21) 99988-7766</a>
+                    <br>
+                    <a href="tel: +22999887766" class="d-inline-block text-decoration-none text-dark"><i class="bi bi-telephone-fill"></i>  (21) 95544-3322</a>
+                </div>
+                <div class="bg-white p-4 rounded mb-4">
+                    <h5>Follow us</h5>
+                    <a href="#" class="d-inline-block mb-3"><span class="badge bg-light text-dark fs-6 p-2"><i class="bi bi-twitter me-1"></i> Twitter</span></a>
+                    <br>
+                    <a href="#" class="d-inline-block mb-3"><span class="badge bg-light text-dark fs-6 p-2"><i class="bi bi-instagram me-1"></i> Instagram</span></a>
+                    <br>
+                    <a href="#" class="d-inline-block"><span class="badge bg-light text-dark fs-6 p-2"><i class="bi bi-facebook me-1"></i> Facebook</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <br><br><br>
     <br><br><br>
 
